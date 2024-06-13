@@ -10,3 +10,5 @@ print(random_element(['apple', 'pear', 'orange', 'banana']))
 cprint("Hello, World!", "green", "on_red")
 print(emojize('Python is :thumbs_up:'))
 print('Hello from CMD!')
+
+print('End of code')
